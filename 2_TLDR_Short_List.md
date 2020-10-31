@@ -2,7 +2,7 @@
 
 #### Contents
 - [Personal Security Checklist](#personal-security-checklist)
-- [Privacy-focused Software](#open-source-privacy-focused-software)
+- [Privacy-focused Software](#open-source-privacy-focused-software) 
 - [Security Hardware](#security-hardware)
 
 ## PERSONAL SECURITY CHECKLIST
